@@ -1,5 +1,6 @@
 setuptools
 nose
+numpy
 pyOpenSSL
 ndg-httpsclient
 pyasn1
@@ -27,5 +28,4 @@ scikits.talkbox
 scikits.audiolab
 bleach==1.5.0
 git+git://github.com/hipstas/audio-tagging-toolkit.git
-numpy
 soundfile
