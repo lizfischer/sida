@@ -3,7 +3,7 @@ alembic==1.0.7
 asn1crypto==0.24.0
 astor==0.7.1
 async-generator==1.10
-attk==0.0.88
+attk
 aubio==0.4.9
 audioread==2.1.6
 backcall==0.1.0
